@@ -15,3 +15,5 @@ fsspec==2022.11.0
 cloudpickle==2.2.0
 PyYAML==5.3.1
 mplhep==0.3.28
+jupyter
+scipy
